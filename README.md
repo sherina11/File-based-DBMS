@@ -14,3 +14,4 @@ gcc main.c -o dbms
 ./dbms
 
 ## Author
+Raja Sherina
