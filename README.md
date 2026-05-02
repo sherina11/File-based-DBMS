@@ -12,3 +12,5 @@
 ## Run
 gcc main.c -o dbms
 ./dbms
+
+## Author
